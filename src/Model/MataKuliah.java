@@ -54,5 +54,4 @@ public class MataKuliah {
     }
     
     
-    
 }
