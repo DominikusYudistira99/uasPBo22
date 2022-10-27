@@ -9,5 +9,5 @@ package Controller;
  * @author yudis
  */
 public class PenggunaController {
-    //test test
+    int h = 0;
 }
