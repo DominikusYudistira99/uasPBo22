@@ -12,13 +12,13 @@ public class MataKuliah {
     private int idMataKuliah;
     private String namaMatkul;
     private int sks;
-    private String [] Jurusan;
+    private String [] jurusan;
 
-    public MataKuliah(int idMataKuliah, String namaMatkul, int sks, String[] Jurusan) {
+    public MataKuliah(int idMataKuliah, String namaMatkul, int sks, String[] jurusan) {
         this.idMataKuliah = idMataKuliah;
         this.namaMatkul = namaMatkul;
         this.sks = sks;
-        this.Jurusan = Jurusan;
+        this.jurusan = jurusan;
     }
 
     public int getIdMataKuliah() {
@@ -46,11 +46,11 @@ public class MataKuliah {
     }
 
     public String[] getJurusan() {
-        return Jurusan;
+        return jurusan;
     }
 
-    public void setJurusan(String[] Jurusan) {
-        this.Jurusan = Jurusan;
+    public void setJurusan(String[] jurusan) {
+        this.jurusan = jurusan;
     }
     
     
