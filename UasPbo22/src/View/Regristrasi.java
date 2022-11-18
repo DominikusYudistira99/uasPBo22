@@ -2,22 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Main;
-
-import View.Login;
-import java.util.ArrayList;
-import View.Tampilanutama;
+package View;
 
 /**
  *
  * @author yudis
  */
-public class Main {
-
-    public static void main(String[] args) {
-     Tampilanutama.tampilanUtama();
-    
-     
-     
+public class Regristrasi {
+    public static void Registrasi (){
+        
     }
 }

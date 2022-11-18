@@ -25,6 +25,10 @@ public class User {
         this.userFollowers = userFollowers;
     }
 
+    public User() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     public int getUserId() {
         return userId;
     }
