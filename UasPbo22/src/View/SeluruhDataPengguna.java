@@ -13,9 +13,9 @@ import javax.swing.JPanel;
  *
  * @author yudis
  */
-public class Regristrasi {
-    public static void Registrasi (){
-        JFrame frame = new JFrame("Main Menu");
+public class SeluruhDataPengguna {
+    public static void main(String[] args) {
+     JFrame frame = new JFrame("Main Menu");
         JPanel panel = new JPanel();
         panel.setLayout(new FlowLayout());
         JButton button = new JButton();
