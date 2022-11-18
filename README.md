@@ -1,1 +1,0 @@
-# PemogramanBerorientasiObjek2022
